@@ -1,9 +1,9 @@
 objects/TComBitStream.d.o: \
- /mnt/f/NewScan_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComBitStream.cpp \
- /mnt/f/NewScan_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComBitStream.h \
- /mnt/f/NewScan_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h \
- /mnt/f/NewScan_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h
- /mnt/f/NewScan_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComBitStream.cpp :
- /mnt/f/NewScan_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComBitStream.h :
- /mnt/f/NewScan_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h :
- /mnt/f/NewScan_For_Compare/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /mnt/d/HM15_Src/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComBitStream.cpp \
+ /mnt/d/HM15_Src/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /mnt/d/HM15_Src/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /mnt/d/HM15_Src/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h
+ /mnt/d/HM15_Src/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComBitStream.cpp :
+ /mnt/d/HM15_Src/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /mnt/d/HM15_Src/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /mnt/d/HM15_Src/build/linux/lib/TLibCommon/../../../../source/Lib/TLibCommon/TypeDef.h :
