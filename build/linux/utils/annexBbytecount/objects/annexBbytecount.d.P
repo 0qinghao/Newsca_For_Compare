@@ -1,7 +1,7 @@
 objects/annexBbytecount.d.o: \
- /mnt/d/HM15_Src/build/linux/utils/annexBbytecount/../../../../source/App/utils/annexBbytecount.cpp \
- /mnt/d/HM15_Src/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibDecoder/AnnexBread.h \
- /mnt/d/HM15_Src/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibCommon/TypeDef.h
- /mnt/d/HM15_Src/build/linux/utils/annexBbytecount/../../../../source/App/utils/annexBbytecount.cpp :
- /mnt/d/HM15_Src/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibDecoder/AnnexBread.h :
- /mnt/d/HM15_Src/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /mnt/c/HM_15_src/build/linux/utils/annexBbytecount/../../../../source/App/utils/annexBbytecount.cpp \
+ /mnt/c/HM_15_src/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibDecoder/AnnexBread.h \
+ /mnt/c/HM_15_src/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibCommon/TypeDef.h
+ /mnt/c/HM_15_src/build/linux/utils/annexBbytecount/../../../../source/App/utils/annexBbytecount.cpp :
+ /mnt/c/HM_15_src/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibDecoder/AnnexBread.h :
+ /mnt/c/HM_15_src/build/linux/utils/annexBbytecount/../../../../source/Lib/TLibCommon/TypeDef.h :

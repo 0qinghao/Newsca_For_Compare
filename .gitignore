@@ -834,7 +834,6 @@ MigrationBackup/
 # End of https://www.toptal.com/developers/gitignore/api/xtext,xcodeinjection,windows,vscode,visualstudiocode,visualstudio,microsoftoffice,matlab,latex,c++,c
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
-
 *.yuv
 *.bin
 *.srt
@@ -842,7 +841,6 @@ MigrationBackup/
 *.mat
 HEVC_test_sequence/
 .vscode/bookmarks.json
-!.vscode/breakpoints*
-!bin/
 .history
 *.P
+bin/

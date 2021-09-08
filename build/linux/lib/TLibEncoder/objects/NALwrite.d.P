@@ -1,15 +1,15 @@
 objects/NALwrite.d.o: \
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h \
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h :
- /mnt/d/HM15_Src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h \
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h :
+ /mnt/c/HM_15_src/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :

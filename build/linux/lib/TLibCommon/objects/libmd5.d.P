@@ -1,5 +1,5 @@
 objects/libmd5.d.o: \
- /mnt/d/HM15_Src/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.c \
- /mnt/d/HM15_Src/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.h
- /mnt/d/HM15_Src/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.c :
- /mnt/d/HM15_Src/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.h :
+ /mnt/c/HM_15_src/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.c \
+ /mnt/c/HM_15_src/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.h
+ /mnt/c/HM_15_src/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.c :
+ /mnt/c/HM_15_src/build/linux/lib/TLibCommon/../../../../source/Lib/libmd5/libmd5.h :
